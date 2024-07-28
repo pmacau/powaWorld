@@ -1,0 +1,88 @@
+# Ignore the following directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore the following files and extensions
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.rsuser
+*.rsbooproj
+*.rideruser
+*.idea/
+*.tvs/
+*.manifest
+*.meta
+*.pdb
+*.mdb
+*.opendb
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb.meta
+*.asset.meta
+
+# Ignore build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.nupkg
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio files
+.vs/
+.vscode/
+*.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.userprefs
+
+# Ignore Rider IDE files
+.idea/
+*.sln.iml
+*.sln.idea
+
+# Ignore JetBrains Rider files
+*.iml
+.idea/
+*.log
+*.tvs/
+*.temp/
+.vscode/
+*.Rider/
+*.ReSharper/
+*.DotSettings.user
+
+# Ignore custom settings files
+*.user
+*.un~ 
+*.blend*
+
+# Uncomment if using Unity Cloud Build
+# unitycloudbuild/
+
+# Ignore your specific files
+worldOfPowas.sln
+.vsconfig
+Assembly-CSharp.csproj
